@@ -29,7 +29,6 @@ Thumbs.db
 # Local test images that shouldn't be shared
 *.jpg
 *.jpeg
-*.png
 *.gif
 *.tif
 *.tiff
